@@ -1,0 +1,61 @@
+/* CSS */
+@import url("https://fonts.googleapis.com/css?family=Open+Sans&display=swap");
+
+body {
+	font-family: "Open Sans", sans-serif;
+	background-color: rgb(99, 202, 236);
+	background-image: url("ray-mallick-5J1bHRX1fNw-unsplash.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.navbar {
+	background-color: rgb(99, 202, 236);
+}
+
+.navbar-brand {
+	color: #333;
+}
+
+.nav-link {
+	color: #333;
+}
+
+.container {
+	margin-top: 50px;
+	background-color: rgb(99, 202, 236);
+	box-shadow: 10px 10px 5px rgb(31, 34, 35);
+}
+
+.jumbotron {
+	background-color: #e1f3ff;
+	color: #333;
+	background-image: url("joe-woods-4Zaq5xY5M_c-unsplash.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.btn-primary {
+	background-color: #5dbcd2;
+	border-color: #5dbcd2;
+}
+
+.btn-primary:hover {
+	background-color: #3c9db3;
+	border-color: #3c9db3;
+}
+
+.card {
+	background-color: #e1f3ff;
+	border-color: #5dbcd2;
+}
+
+.card-title {
+	color: #333;
+}
+
+.footer {
+	background-color: rgb(99, 202, 236);
+	color: #333;
+	padding: 20px 0;
+}
