@@ -26,13 +26,19 @@ body {
 	background-color: rgb(99, 202, 236);
 	box-shadow: 10px 10px 5px rgb(31, 34, 35);
 }
-
+.col-2 {
+	margin-bottom: 15px;
+}
 .jumbotron {
 	background-color: #e1f3ff;
 	color: #333;
 	background-image: url("joe-woods-4Zaq5xY5M_c-unsplash.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
+	width: 85%;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 10px 10px 5px rgb(31, 34, 35);
 }
 
 .btn-primary {
