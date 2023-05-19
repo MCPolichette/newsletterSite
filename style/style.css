@@ -29,6 +29,9 @@ body {
 .col-2 {
 	margin-bottom: 15px;
 }
+footer {
+	background-color: black;
+}
 .jumbotron {
 	background-color: #e1f3ff;
 	color: #333;
